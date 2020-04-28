@@ -1,4 +1,4 @@
-# 2020-04-24-git-oreilly Notes
+# 2020-04-24-git-oreilly -  Notes
 Git Workshop
 
 
@@ -26,3 +26,9 @@ git checkout -b my_second_branch - create a branch and switch to it
 git switch -c my_second_branch - create a branch and switch to it (switch is a new command)
 
 git branch my_first_branch - create a branch
+
+Rebaseing or incorporate branch updates
+
+git rebase <branch> : if branch is master, replay current branch off of master
+- will auto merge if possible
+- helps deal with conflicts
