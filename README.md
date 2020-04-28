@@ -5,3 +5,8 @@ Git Workshop
   - Make sure you do not nest repos, only run git clone once
   - just like git init only do it once per repo
 
+git add README.md
+
+git commit -m "add notes"
+
+git push <where> <what> = git push origin master
