@@ -1,5 +1,6 @@
-# 2020-04-24-git-oreilly
+# 2020-04-24-git-oreilly Notes
 Git Workshop
+
 
 - git clone <URL>: downloads the repo from web to PC
   - Make sure you do not nest repos, only run git clone once
